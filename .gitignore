@@ -1,5 +1,8 @@
 .DS_Store
 
+# zip
+*.zip
+*.rar
 
 tbkmaterial_toJson
 tbkmaterial_toJson/*
