@@ -1,3 +1,4 @@
+cd ../static/
 git add .
 git commit -m "debug"
 git push
@@ -10,6 +11,7 @@ cp -rf ../static/ping ./
 cp -rf ../static/.gitignore ./
 cp -rf ../static/LICENSE ./
 
+cd ../static_router/
 git add .
 git commit -m "debug"
 git push -u github master
