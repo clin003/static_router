@@ -7,7 +7,7 @@ cp -rf ../static/app/* ./app/
 cp -rf ../static/json/* ./json/
 cp -rf ../static/_git.sh ./
 cp -rf ../static/ping ./
-cp -rf ../static/gitignore ./
+cp -rf ../static/.gitignore ./
 cp -rf ../static/LICENSE ./
 
 git add .
